@@ -39,11 +39,19 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronipaul2021" alt="ronipaul2021" /></a> </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronipaul2021&show_icons=true&locale=en&layout=compact" alt="ronipaul2021" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ronipaul2021&show_icons=true&locale=en" alt="ronipaul2021" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronipaul2021&" alt="ronipaul2021" /></p>
+
 </div>
+
+
 <div align="center">
  <h1 align="center"> Thanks For Reading </h1>
  <img src="https://typograssy.deno.dev/api?text=Thank%20you%20for%20visiting%20my%20profile!&l0=none&l1=ef858c&l2=62b7d8&l3=ffb6c1&l4=caf9ff&bg=none&frame=none&speed=250&comment=">
@@ -52,8 +60,6 @@
 
 
 </div>
-
-
 
 
 ###
