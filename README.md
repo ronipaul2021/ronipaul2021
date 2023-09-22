@@ -45,10 +45,10 @@
   <a href="https://fb.com/roni.paul.16503323" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a>
 
   <a href="https://instagram.com/ai_with_roni" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://twitter.com/ronipersonal_" target="blank"><img src="https://img.shields.io/badge/-Twitter-%231877F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="realpratyay" /></a>
+ <a href="https://twitter.com/ronipersonal_" target="blank"><img src="https://img.shields.io/badge/-Twitter-%231877F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="ai_with_roni" /></a>
   <a href = "mailto:ronipa517@outlook.com"><img src="https://img.shields.io/badge/-Mail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://linkedin.com/in/roni-paul-a29370267" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.hackerrank.com/ronip8013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ronip8013" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/ronip8013" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" target="_blank" alt="roni8013"/></a>
 </p>
 
 </div>
