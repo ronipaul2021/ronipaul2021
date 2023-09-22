@@ -6,7 +6,7 @@
 </p>
 <br>
 <h3 align="center">A Passionate Student from India</h3>
-<img align="right" alt="Embeded System" width="300" height="300" src="https://www.the-iot.co.uk/wp-content/uploads/2019/05/industry-iot.png">
+<img align="right" alt="Embeded System" width="350" height="350" src="https://www.the-iot.co.uk/wp-content/uploads/2019/05/industry-iot.png">
 
 
 
