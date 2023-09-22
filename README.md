@@ -7,8 +7,9 @@
 <br>
 <h3 align="center">A Passionate Student from India</h3>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ronipaul2021&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronipaul2021" alt="ronipaul2021" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ronipersonal_" target="blank"><img src="https://img.shields.io/twitter/follow/ronipersonal_?logo=twitter&style=for-the-badge" alt="ronipersonal_" /></a> </p>
 
@@ -39,17 +40,15 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+</div>
 
-
-
+## 📊 GitHub Stats:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronipaul2021&show_icons=true&locale=en&layout=compact" alt="ronipaul2021" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ronipaul2021&show_icons=true&locale=en" alt="ronipaul2021" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronipaul2021&" alt="ronipaul2021" /></p>
-
-</div>
 
 
 <div align="center">
