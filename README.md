@@ -25,7 +25,7 @@
 - ⚡ Fun fact **Nothing Funny**
 
 ### The Technologies I'm familiar with(Used at least once/twice):(Not that I'm expert on using all of them)
-![FullTechStack](https://skillicons.dev/icons?i=arduino,matlab,html,css,javascript,c,python,java,figma,linux,mysql,tensorflow,pytorch,php)
+![](https://skillicons.dev/icons?i=arduino,matlab,html,css,javascript,c,python,java,figma,linux,mysql,tensorflow,pytorch,php)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ronipaul2021&show_icons=true&theme=radical)<br/>
