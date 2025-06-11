@@ -1,4 +1,3 @@
-<img align="center" height="700px" width="1000" alt="IoT" src="dribbble_tele2.gif">
 <h1 align="center"> 💫 About Me </h1> 
 <h2 align="center" style="font-size: 200%;"> Hi 👋, I'm Roni Paul</h2>
 
