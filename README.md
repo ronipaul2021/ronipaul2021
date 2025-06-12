@@ -8,11 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/ronipersonal_" target="blank"><img src="https://img.shields.io/twitter/follow/ronipersonal_?logo=twitter&style=for-the-badge" alt="ronipersonal_" /></a> </p>
 
-- 🔭 I’m currently working on **IoT**
-
-- 🌱 I’m currently learning **Python**
-
-- 💬 Ask me about **Raspberry Pi Zero/3/4**
+- 🔭 I’m currently working on **IoT and Machine Learning**
 
 - 📫 How to reach me **ronip8013@gmail.com**
 
