@@ -1,6 +1,5 @@
 <h1 align="center"> 💫 About Me </h1> 
 <h2 align="center" style="font-size: 200%;"> Hi 👋, I'm Roni Paul</h2>
-<br>
 <h3 align="center">A Passionate Student from India</h3>
 
 ## 🏆 GitHub Trophies
