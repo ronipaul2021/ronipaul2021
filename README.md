@@ -14,10 +14,12 @@
 
 - ⚡ Fun fact **Nothing Funny**
 
-### The Technologies I'm familiar with(Used at least once/twice):(Not that I'm expert on using all of them)
+### The Technologies I'm familiar with(Used at least once/twice): (Not that I'm expert on using all of them)
+---
 ![](https://skillicons.dev/icons?i=arduino,html,css,c,python,figma,linux,mysql,tensorflow,pytorch,php)
 
 ## 📊 GitHub Stats:
+----
 ![](https://github-readme-stats.vercel.app/api?username=ronipaul2021&show_icons=true&theme=radical)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ronipaul2021&show_icons=true&theme=radical)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ronipaul2021&show_icons=true&theme=radical&include_all_commits=true&count_private=false&layout=compact)
