@@ -1,9 +1,5 @@
 <h1 align="center"> 💫 About Me </h1> 
 <h2 align="center" style="font-size: 200%;"> Hi 👋, I'm Roni Paul</h2>
-
-<p align="center">
-<img align="center" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/127582228?v=4">
-</p>
 <br>
 <h3 align="center">A Passionate Student from India</h3>
 
